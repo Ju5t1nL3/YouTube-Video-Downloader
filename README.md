@@ -1,6 +1,6 @@
 # YouTube Video Downloader
 
-The program allows you to choose any youtube url and save that video to any file directory. If you would like to use it, simply download the python file and pip install the necessary libraries.
+The program allows you to choose any youtube url and save that video to any file directory. If you would like to use it, simply download the python file and pip install the necessary libraries. Because this is a basic program, it uses “progressive downloads," so only resolutions 720p and below are returned.
 
 ## Proof
 
