@@ -8,7 +8,7 @@ from tkinter import filedialog
 
 def download_video(url, save_path):
     """
-    Downlaods the YouTube video with url to the save_path.
+    Downloads the YouTube video with url to the save_path.
     """
     try:
         yt = YouTube(url)
